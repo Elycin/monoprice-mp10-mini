@@ -40,7 +40,7 @@ M84
 - X Min: `-20`
 - Y Min: `-10`
 - X Max: `10`
-- Y Max: `10
+- Y Max: `10`
 - Gantry Height: `180.0mm`
 - Number of Extruders: `1`
 - Apply Extruder Offsets to GCode: `true`
